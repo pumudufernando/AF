@@ -1,13 +1,12 @@
-# MERN GridFS Tutorial
+# Student and Instructor Information System
 
 This app is a demonstration for how to connecting a react front-end app with gridfs file storage mongo database.
 
 ## Setup
-1. Clone this repository `git clone https://github.com/AndreasLengkeek/mern-gridfs-tutorial`
-2. Install dependencies `npm install` on the server and in the client folder
-3. Make sure an instance of `mongod` is running
-4. Start the server and client separately with `npm start`
-5. Browse to http://localhost:3000 to access the app
+1. Install dependencies `npm install` on the server and in the client folder
+2. Make sure an instance of `mongod` is running
+3. Start the server and client separately with `npm start`
+4. Browse to http://localhost:3000 to access the app
 
 ## Dependencies
 ```
@@ -21,7 +20,3 @@ This app is a demonstration for how to connecting a react front-end app with gri
     "multer-gridfs-storage": "^2.1.0"
 }
 ```
-
-## Tutorial
-
-[Find the tutorial here](https://medium.com/@andreas.lengkeek/a-major-point-of-trouble-for-first-time-developers-is-working-out-how-to-store-and-upload-files-on-2e847e908332)
