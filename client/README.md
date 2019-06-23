@@ -1,1 +1,1 @@
-# [Student and Instructor Infromation System React Frontend]
+# Student and Instructor Infromation System React Frontend
